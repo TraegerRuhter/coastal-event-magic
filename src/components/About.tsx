@@ -14,7 +14,7 @@ export const About = () => {
             transition={{ duration: 0.6 }}
             className="relative h-[500px] rounded-lg overflow-hidden"
             style={{
-              backgroundImage: "url('https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07')",
+              backgroundImage: "url('https://images.unsplash.com/photo-1472396961693-142e6e269027')",
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}
