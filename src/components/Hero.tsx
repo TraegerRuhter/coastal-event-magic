@@ -22,7 +22,7 @@ export const Hero = () => {
             on the Oregon Coast
           </span>
         </h1>
-        <p className="font-sans text-lg sm:text-xl text-white/90 mb-8 max-w-2xl mx-auto animate-fade-up">
+        <p className="font-display text-lg sm:text-xl text-white/90 mb-8 max-w-2xl mx-auto animate-fade-up italic">
           Full-service wedding and event planning that transforms your vision into unforgettable celebrations
         </p>
         <Button
